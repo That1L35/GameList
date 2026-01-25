@@ -9,6 +9,6 @@ local Games= {
   [125886895122772] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/main/CubeGaem", -- Cube gaem
   [126615659622875] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/refs/heads/main/Anchored.lua", -- Anchored
   [121677448523790] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/refs/heads/main/Anchored.lua", -- The anchorage
-  [136764190843219] = "https://raw.githubusercontent.com/That1L35/Scripts/refs/heads/main/Knockout.lua", -- Knockout
+  [136764190843219] = "https://raw.githubusercontent.com/That1L35/Scripts/refs/heads/main/Get-ices%20Knockout.lua", -- Knockout
 }
 return Games
