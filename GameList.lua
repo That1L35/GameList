@@ -10,5 +10,7 @@ local Games= {
   [126615659622875] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/refs/heads/main/Anchored.lua", -- Anchored
   [121677448523790] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/refs/heads/main/Anchored.lua", -- The anchorage
   [136764190843219] = "https://raw.githubusercontent.com/That1L35/Scripts/refs/heads/main/Get-ices%20Knockout.lua", -- Knockout
+  [17157963133] = "https://raw.githubusercontent.com/That1L35/Scripts/refs/heads/main/DeadCamp.lua", -- Deadly Camp Lobby
+  [130913114900877] = "https://raw.githubusercontent.com/That1L35/Scripts/refs/heads/main/DeadCamp.lua", -- deadly camp ingame
 }
 return Games
